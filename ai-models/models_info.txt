@@ -1,0 +1,3 @@
+Face recognition model: FaceNet-based embedding pipeline
+Object detection model: YOLOv8n pretrained weights used locally
+Note: Large weight files are excluded from the repository.

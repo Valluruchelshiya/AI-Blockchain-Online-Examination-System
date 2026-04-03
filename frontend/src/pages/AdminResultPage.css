@@ -1,0 +1,50 @@
+.admin-results-page {
+  padding: 20px;
+}
+
+.admin-results-page h2 {
+  margin-bottom: 20px;
+}
+
+.filter-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filter-box input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.btn {
+  padding: 8px 15px;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.results-table th,
+.results-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.results-table tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.send-btn {
+  margin-top: 20px;
+  background: green;
+}
